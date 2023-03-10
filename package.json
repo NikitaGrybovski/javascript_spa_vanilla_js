@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-legacy": "^4.0.1",
+    "vite-aliases": "^0.11.0"
   }
 }
